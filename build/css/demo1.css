@@ -1,0 +1,13 @@
+h2 {
+  color: blue;
+  font-size: 30px;
+}
+h2 span {
+  color: red;
+}
+div {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
